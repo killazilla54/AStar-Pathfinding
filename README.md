@@ -1,5 +1,5 @@
 # AStar-Pathfinding
-C# AStar Pathfinding Library for Unity
+C# AStar Pathfinding Library for Unity, created by Kevin O'Neil
 
 A small demo project using a custom A* Pathfinding library.
 
