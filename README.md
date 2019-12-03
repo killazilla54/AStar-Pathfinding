@@ -1,7 +1,7 @@
 # AStar-Pathfinding
 A small demo project using a custom A* Pathfinding library.
 
-Written in C# int he Unity Engine by Kevin O'Neil
+Written in C# in the Unity Engine by Kevin O'Neil.
 
 # A* Pathfinding
 AstarPathfinding.cs contains the code to do the actual pathfinding, as well as some common functions.  The FindPath method takes in an implementation of the custom class IGrid that allows the pathfinding code to be general, leaving different node map implementations up to the interface.
